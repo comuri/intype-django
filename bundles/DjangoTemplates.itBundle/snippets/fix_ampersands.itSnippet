@@ -1,0 +1,6 @@
+﻿{
+	content: '|fix_ampersands'
+	key_equivalent: 'Ctrl+|'
+	title: 'fix_ampersands'
+	scope: 'text.html.django'
+}

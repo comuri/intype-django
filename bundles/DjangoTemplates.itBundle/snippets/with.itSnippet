@@ -1,0 +1,8 @@
+﻿{
+	content: '{% with $1 as $2 %}
+	$3
+{% endwith %}'
+	title: 'with'
+	scope: 'text.html.django'
+	tab_trigger: 'with'
+}

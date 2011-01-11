@@ -1,0 +1,6 @@
+﻿{
+	content: '|length'
+	key_equivalent: 'Ctrl+|'
+	title: 'length'
+	scope: 'text.html.django'
+}

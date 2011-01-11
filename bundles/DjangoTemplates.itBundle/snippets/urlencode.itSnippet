@@ -1,0 +1,6 @@
+﻿{
+	content: '|urlencode'
+	key_equivalent: 'Ctrl+|'
+	title: 'urlencode'
+	scope: 'text.html.django'
+}

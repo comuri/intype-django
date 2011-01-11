@@ -1,0 +1,6 @@
+﻿{
+	content: '|time:"${1:arg}"'
+	key_equivalent: 'Ctrl+|'
+	title: 'time'
+	scope: 'text.html.django'
+}

@@ -1,0 +1,6 @@
+﻿{
+	content: '|stringformat:"${1:arg}"'
+	key_equivalent: 'Ctrl+|'
+	title: 'stringformat'
+	scope: 'text.html.django'
+}

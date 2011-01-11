@@ -1,0 +1,6 @@
+﻿{
+	content: '${1:FIELDNAME} = models.URLField(${2:blank=True, }verify_exists=${3:True})'
+	title: 'URLField'
+	scope: 'source.python.django'
+	tab_trigger: 'url'
+}

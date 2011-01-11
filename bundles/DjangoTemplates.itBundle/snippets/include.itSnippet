@@ -1,0 +1,6 @@
+﻿{
+	content: '{% include ${1:"$2"} %}'
+	title: 'include'
+	scope: 'text.html.django'
+	tab_trigger: 'include'
+}

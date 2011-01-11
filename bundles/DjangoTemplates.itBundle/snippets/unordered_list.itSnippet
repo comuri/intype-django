@@ -1,0 +1,6 @@
+﻿{
+	content: '|unordered_list'
+	key_equivalent: 'Ctrl+|'
+	title: 'unordered_list'
+	scope: 'text.html.django'
+}

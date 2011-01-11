@@ -1,0 +1,6 @@
+﻿{
+	content: '|wordwrap:"${1:arg}"'
+	key_equivalent: 'Ctrl+|'
+	title: 'wordwrap'
+	scope: 'text.html.django'
+}

@@ -1,0 +1,6 @@
+﻿{
+	content: '${1:FIELDNAME} = models.FilePathField(path="${1:/location/of/choices}"${2:, match="${3:regex}"}${4:, recursive=True})'
+	title: 'FilePathField'
+	scope: 'source.python.django'
+	tab_trigger: 'filepath'
+}

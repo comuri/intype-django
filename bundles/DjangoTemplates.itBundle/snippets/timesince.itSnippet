@@ -1,0 +1,6 @@
+﻿{
+	content: '|timesince'
+	key_equivalent: 'Ctrl+|'
+	title: 'timesince'
+	scope: 'text.html.django'
+}

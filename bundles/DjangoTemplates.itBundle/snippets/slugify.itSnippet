@@ -1,0 +1,6 @@
+﻿{
+	content: '|slugify'
+	key_equivalent: 'Ctrl+|'
+	title: 'slugify'
+	scope: 'text.html.django'
+}

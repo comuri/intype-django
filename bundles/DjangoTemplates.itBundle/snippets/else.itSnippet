@@ -1,0 +1,6 @@
+﻿{
+	content: '{% else %}'
+	title: 'else'
+	scope: 'text.html.django'
+	tab_trigger: 'else'
+}

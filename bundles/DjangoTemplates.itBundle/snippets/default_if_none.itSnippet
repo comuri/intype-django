@@ -1,0 +1,6 @@
+﻿{
+	content: '|default_if_none:"${1:arg}"'
+	key_equivalent: 'Ctrl+|'
+	title: 'default_if_none'
+	scope: 'text.html.django'
+}

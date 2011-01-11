@@ -1,0 +1,6 @@
+﻿{
+	content: '${1:FIELDNAME} = models.EmailField()'
+	title: 'EmailField'
+	scope: 'source.python.django'
+	tab_trigger: 'email'
+}

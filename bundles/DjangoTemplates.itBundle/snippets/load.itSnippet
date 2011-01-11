@@ -1,0 +1,6 @@
+﻿{
+	content: '{% load $1 %}'
+	title: 'load'
+	scope: 'text.html.django'
+	tab_trigger: 'load'
+}

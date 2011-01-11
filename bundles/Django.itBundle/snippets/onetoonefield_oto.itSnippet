@@ -1,0 +1,6 @@
+﻿{
+	content: '${1:FIELDNAME} = models.OneToOneField(${2:RELATED_MODEL}${3:, related_name="${4:RELATED_NAME}"})'
+	title: 'OneToOneField'
+	scope: 'source.python.django'
+	tab_trigger: 'oto'
+}

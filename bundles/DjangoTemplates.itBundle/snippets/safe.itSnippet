@@ -1,0 +1,6 @@
+﻿{
+	content: '|safe'
+	key_equivalent: 'Ctrl+|'
+	title: 'safe'
+	scope: 'text.html.django'
+}

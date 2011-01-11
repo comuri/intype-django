@@ -1,0 +1,6 @@
+﻿{
+	content: '|urlizetrunc:"${1:arg}"'
+	key_equivalent: 'Ctrl+|'
+	title: 'urlizetrunc'
+	scope: 'text.html.django'
+}

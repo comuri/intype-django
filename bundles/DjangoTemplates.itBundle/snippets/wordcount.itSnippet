@@ -1,0 +1,6 @@
+﻿{
+	content: '|wordcount'
+	key_equivalent: 'Ctrl+|'
+	title: 'wordcount'
+	scope: 'text.html.django'
+}

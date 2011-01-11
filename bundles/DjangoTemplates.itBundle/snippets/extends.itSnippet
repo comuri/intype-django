@@ -1,0 +1,6 @@
+﻿{
+	content: '{% extends ''${1:base.html}'' %}'
+	title: 'extends'
+	scope: 'text.html.django'
+	tab_trigger: 'extends'
+}

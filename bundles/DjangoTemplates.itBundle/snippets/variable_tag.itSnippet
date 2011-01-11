@@ -1,0 +1,6 @@
+﻿{
+	content: '{{ $1 }}'
+	key_equivalent: 'Ctrl+{'
+	title: 'Variable tag'
+	scope: 'text.html.django'
+}

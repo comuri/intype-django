@@ -1,0 +1,6 @@
+﻿{
+	content: '{% widthratio ${1:this_value} ${2:max_value} ${3:100} %}'
+	title: 'widthratio'
+	scope: 'text.html.django'
+	tab_trigger: 'widthratio'
+}

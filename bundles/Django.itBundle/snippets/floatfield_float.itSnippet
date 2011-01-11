@@ -1,0 +1,6 @@
+﻿{
+	content: '${1:FIELDNAME} = models.FloatField()'
+	title: 'FloatField'
+	scope: 'source.python.django'
+	tab_trigger: 'float'
+}

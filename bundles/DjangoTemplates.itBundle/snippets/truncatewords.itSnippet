@@ -1,0 +1,6 @@
+﻿{
+	content: '|truncatewords:"${1:arg}"'
+	key_equivalent: 'Ctrl+|'
+	title: 'truncatewords'
+	scope: 'text.html.django'
+}

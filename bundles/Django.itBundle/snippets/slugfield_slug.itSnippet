@@ -1,0 +1,6 @@
+﻿{
+	content: '${1:slug} = models.SlugField()'
+	title: 'SlugField'
+	scope: 'source.python.django'
+	tab_trigger: 'slug'
+}

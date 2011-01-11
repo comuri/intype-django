@@ -1,0 +1,6 @@
+﻿{
+	content: '${1:FIELDNAME} = models.IntegerField(${2:blank=True, null=True})'
+	title: 'IntegerField'
+	scope: 'source.python.django'
+	tab_trigger: 'integer'
+}

@@ -1,0 +1,8 @@
+﻿{
+	content: '<pre>
+{% debug %}
+</pre>'
+	title: 'debug'
+	scope: 'text.html.django'
+	tab_trigger: 'debug'
+}

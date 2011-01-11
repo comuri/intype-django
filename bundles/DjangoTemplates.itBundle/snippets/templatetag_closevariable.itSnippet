@@ -1,0 +1,6 @@
+﻿{
+	content: '{% templatetag closevariable %}'
+	title: 'templatetag: closevariable'
+	scope: 'text.html.django'
+	tab_trigger: '}}'
+}

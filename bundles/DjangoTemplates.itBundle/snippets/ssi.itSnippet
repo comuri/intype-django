@@ -1,0 +1,6 @@
+﻿{
+	content: '{% ssi $1 ${2:parsed} %}'
+	title: 'ssi'
+	scope: 'text.html.django'
+	tab_trigger: 'ssi'
+}

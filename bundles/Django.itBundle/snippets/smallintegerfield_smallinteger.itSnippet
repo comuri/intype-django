@@ -1,0 +1,6 @@
+﻿{
+	content: '${1:FIELDNAME} = models.SmallIntegerField(${2:blank=True, null=True})'
+	title: 'SmallIntegerField'
+	scope: 'source.python.django'
+	tab_trigger: 'smallinteger'
+}

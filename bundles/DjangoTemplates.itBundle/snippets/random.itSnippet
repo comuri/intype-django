@@ -1,0 +1,6 @@
+﻿{
+	content: '|random'
+	key_equivalent: 'Ctrl+|'
+	title: 'random'
+	scope: 'text.html.django'
+}

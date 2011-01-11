@@ -1,0 +1,6 @@
+﻿{
+	content: '{% firstof $1 %}'
+	title: 'firstof'
+	scope: 'text.html.django'
+	tab_trigger: 'firstof'
+}

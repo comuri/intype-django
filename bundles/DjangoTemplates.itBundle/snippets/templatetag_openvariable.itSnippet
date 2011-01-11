@@ -1,0 +1,6 @@
+﻿{
+	content: '{% templatetag openvariable %}'
+	title: 'templatetag: openvariable'
+	scope: 'text.html.django'
+	tab_trigger: '{{'
+}

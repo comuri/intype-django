@@ -1,0 +1,6 @@
+﻿{
+	content: '|linenumbers'
+	key_equivalent: 'Ctrl+|'
+	title: 'linenumbers'
+	scope: 'text.html.django'
+}

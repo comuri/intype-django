@@ -1,0 +1,6 @@
+﻿{
+	content: '|timeuntil'
+	key_equivalent: 'Ctrl+|'
+	title: 'timeuntil'
+	scope: 'text.html.django'
+}

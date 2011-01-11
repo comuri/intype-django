@@ -1,0 +1,8 @@
+﻿{
+	content: '{% block $1 %}
+	$2
+{% endblock $1 %}'
+	title: 'block'
+	scope: 'text.html.django'
+	tab_trigger: 'block'
+}

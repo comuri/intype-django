@@ -1,0 +1,6 @@
+﻿{
+	content: '|addslashes'
+	key_equivalent: 'Ctrl+|'
+	title: 'addslashes'
+	scope: 'text.html.django'
+}

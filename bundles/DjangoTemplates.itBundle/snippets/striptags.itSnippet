@@ -1,0 +1,6 @@
+﻿{
+	content: '|striptags'
+	key_equivalent: 'Ctrl+|'
+	title: 'striptags'
+	scope: 'text.html.django'
+}

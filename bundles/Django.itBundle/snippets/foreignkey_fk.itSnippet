@@ -1,0 +1,6 @@
+﻿{
+	content: '${1:FIELDNAME} = models.ForeignKey(${2:RELATED_MODEL})'
+	title: 'ForeignKey'
+	scope: 'source.python.django'
+	tab_trigger: 'fk'
+}

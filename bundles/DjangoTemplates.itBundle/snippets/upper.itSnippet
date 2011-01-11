@@ -1,0 +1,6 @@
+﻿{
+	content: '|upper'
+	key_equivalent: 'Ctrl+|'
+	title: 'upper'
+	scope: 'text.html.django'
+}

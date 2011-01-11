@@ -1,0 +1,6 @@
+﻿{
+	content: '{% templatetag openblock %}'
+	title: 'templatetag: openblock'
+	scope: 'text.html.django'
+	tab_trigger: '{%'
+}

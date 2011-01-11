@@ -1,0 +1,6 @@
+﻿{
+	content: '|add:"${1:arg}"'
+	key_equivalent: 'Ctrl+|'
+	title: 'add'
+	scope: 'text.html.django'
+}

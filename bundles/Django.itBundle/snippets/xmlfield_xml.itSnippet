@@ -1,0 +1,6 @@
+﻿{
+	content: '${1:FIELDNAME} = models.XMLField(schema_path=${2:/path/to/RelaxNG}${3:, blank=True})'
+	title: 'XMLField'
+	scope: 'source.python.django'
+	tab_trigger: 'xml'
+}

@@ -1,0 +1,6 @@
+﻿{
+	content: '|pluralize'
+	key_equivalent: 'Ctrl+|'
+	title: 'pluralize'
+	scope: 'text.html.django'
+}

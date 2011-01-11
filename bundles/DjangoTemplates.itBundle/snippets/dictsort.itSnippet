@@ -1,0 +1,6 @@
+﻿{
+	content: '|dictsort:"${1:arg}"'
+	key_equivalent: 'Ctrl+|'
+	title: 'dictsort'
+	scope: 'text.html.django'
+}

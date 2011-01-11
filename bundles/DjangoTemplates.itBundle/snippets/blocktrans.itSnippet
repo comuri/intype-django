@@ -1,0 +1,8 @@
+﻿{
+	content: '{% blocktrans ${1:with ${2:var1} as ${3:var2}} %}
+	$4{{ $3 }}
+{% endblocktrans %}'
+	title: 'blocktrans'
+	scope: 'text.html.django'
+	tab_trigger: 'blocktrans'
+}

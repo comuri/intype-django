@@ -1,0 +1,6 @@
+﻿{
+	content: '${1:FIELDNAME} = models.IPAddressField(${2:blank=True})'
+	title: 'IPAddressField'
+	scope: 'source.python.django'
+	tab_trigger: 'ip'
+}

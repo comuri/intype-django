@@ -1,0 +1,6 @@
+﻿{
+	content: '${1:FIELDNAME} = models.NullBooleanField(${2:default=True})'
+	title: 'NullBooleanField'
+	scope: 'source.python.django'
+	tab_trigger: 'nullboolean'
+}

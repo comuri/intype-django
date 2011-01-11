@@ -1,0 +1,6 @@
+﻿{
+	content: '${1:FIELDNAME} = models.TimeField(${2:blank=True})'
+	title: 'TimeField'
+	scope: 'source.python.django'
+	tab_trigger: 'time'
+}

@@ -1,0 +1,6 @@
+﻿{
+	content: '|ljust:"${1:arg}"'
+	key_equivalent: 'Ctrl+|'
+	title: 'ljust'
+	scope: 'text.html.django'
+}

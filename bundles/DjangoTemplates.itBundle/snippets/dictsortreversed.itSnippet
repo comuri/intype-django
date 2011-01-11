@@ -1,0 +1,6 @@
+﻿{
+	content: '|dictsortreversed:"${1:arg}"'
+	key_equivalent: 'Ctrl+|'
+	title: 'dictsortreversed'
+	scope: 'text.html.django'
+}

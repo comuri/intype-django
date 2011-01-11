@@ -1,0 +1,6 @@
+﻿{
+	content: '|pprint'
+	key_equivalent: 'Ctrl+|'
+	title: 'pprint'
+	scope: 'text.html.django'
+}

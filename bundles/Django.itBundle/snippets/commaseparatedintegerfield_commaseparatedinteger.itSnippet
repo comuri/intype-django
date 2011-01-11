@@ -1,0 +1,6 @@
+﻿{
+	content: '${1:FIELDNAME} = models.CommaSeparatedIntegerField(max_length=$2)'
+	title: 'CommaSeparatedIntegerField'
+	scope: 'source.python.django'
+	tab_trigger: 'commaseparatedinteger'
+}

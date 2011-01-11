@@ -1,0 +1,6 @@
+﻿{
+	content: '|urlize'
+	key_equivalent: 'Ctrl+|'
+	title: 'urlize'
+	scope: 'text.html.django'
+}

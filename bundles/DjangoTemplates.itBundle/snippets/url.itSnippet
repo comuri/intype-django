@@ -1,0 +1,6 @@
+﻿{
+	content: '{% url $1 as $2 %}'
+	title: 'url'
+	scope: 'text.html.django'
+	tab_trigger: 'url'
+}

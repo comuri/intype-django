@@ -1,0 +1,6 @@
+﻿{
+	content: '|make_list'
+	key_equivalent: 'Ctrl+|'
+	title: 'make_list'
+	scope: 'text.html.django'
+}

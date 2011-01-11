@@ -1,0 +1,6 @@
+﻿{
+	content: '{% cycle $1 as $2 %}'
+	title: 'cycle'
+	scope: 'text.html.django'
+	tab_trigger: 'cycle'
+}

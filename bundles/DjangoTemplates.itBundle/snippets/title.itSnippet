@@ -1,0 +1,6 @@
+﻿{
+	content: '|title'
+	key_equivalent: 'Ctrl+|'
+	title: 'title'
+	scope: 'text.html.django'
+}

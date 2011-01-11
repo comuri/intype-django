@@ -1,0 +1,6 @@
+﻿{
+	content: '{% trans "${1:string to translate}" %}'
+	title: 'trans'
+	scope: 'text.html.django'
+	tab_trigger: 'trans'
+}

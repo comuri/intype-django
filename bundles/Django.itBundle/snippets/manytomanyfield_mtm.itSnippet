@@ -1,0 +1,6 @@
+﻿{
+	content: '${1:FIELDNAME} = models.ManyToManyField(${2:RELATED_MODEL})'
+	title: 'ManyToManyField'
+	scope: 'source.python.django'
+	tab_trigger: 'mtm'
+}

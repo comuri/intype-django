@@ -1,0 +1,52 @@
+{
+	menu: [
+		{
+			title: "Models"
+			menu: [
+				{ item: "bundle.Django.snippet.model_skeleton_model" }
+				{ item: "bundle.Django.snippet.intermediate_model_skeleton_intermediate" }
+				------------------------------------
+				{ item: "bundle.Django.snippet.autofield_auto" }
+				{ item: "bundle.Django.snippet.booleanfield_boolean" }
+				{ item: "bundle.Django.snippet.charfield_char" }
+				{ item: "bundle.Django.snippet.commaseparatedintegerfield_commaseparatedinteger" }
+				{ item: "bundle.Django.snippet.datefield_date" }
+				{ item: "bundle.Django.snippet.datetimefield" }
+				{ item: "bundle.Django.snippet.decimalfield_decimal" }
+				{ item: "bundle.Django.snippet.emailfield_email" }
+				{ item: "bundle.Django.snippet.filefield_file" }
+				{ item: "bundle.Django.snippet.filepathfield_filepath" }
+				{ item: "bundle.Django.snippet.foreignkey_fk" }
+				{ item: "bundle.Django.snippet.imagefield_image" }
+				{ item: "bundle.Django.snippet.integerfield_integer" }
+				{ item: "bundle.Django.snippet.ipaddressfield_ipaddress" }
+				{ item: "bundle.Django.snippet.manytomanyfield_mtm" }
+				{ item: "bundle.Django.snippet.nullbooleanfield_nullboolean" }
+				{ item: "bundle.Django.snippet.onetoonefield_oto" }
+				{ item: "bundle.Django.snippet.positiveintegerfield_positiveinteger" }
+				{ item: "bundle.Django.snippet.positivesmallintegerfield_positivesmallinteger" }
+				{ item: "bundle.Django.snippet.smallintegerfield_smallinteger" }
+				{ item: "bundle.Django.snippet.slugfield_slug" }
+				{ item: "bundle.Django.snippet.textfield_text" }
+				{ item: "bundle.Django.snippet.timefield_time" }
+				{ item: "bundle.Django.snippet.urlfield_url" }
+				{ item: "bundle.Django.snippet.xmlfield_xml" }
+			]
+		}
+		{
+			title: "Admin"
+			menu: [
+				{ item: "bundle.Django.snippet.modeladmin_skeleton_modeladmin" }
+				{ item: "bundle.Django.snippet.stackedinline_skeleton_stackedinline" }
+				{ item: "bundle.Django.snippet.tabularinline_skeleton_tabinline" }
+			]
+		}
+		{
+			title: "Forms"
+			menu: [
+				{ item: "bundle.Django.snippet.form_skeleton_form" }
+				{ item: "bundle.Django.snippet.modelform_skeleton_modelform" }
+			]
+		}
+	]
+}

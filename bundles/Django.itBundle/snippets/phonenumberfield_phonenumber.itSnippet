@@ -1,0 +1,6 @@
+﻿{
+	content: '${1:FIELDNAME} = models.PhoneNumberField(${2:blank=True})'
+	title: 'PhoneNumberField'
+	scope: 'source.python.django'
+	tab_trigger: 'phonenumber'
+}

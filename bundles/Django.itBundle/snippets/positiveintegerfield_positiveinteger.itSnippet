@@ -1,0 +1,6 @@
+﻿{
+	content: '${1:FIELDNAME} = models.PositiveIntegerField(${2:blank=True, null=True})'
+	title: 'PositiveIntegerField'
+	scope: 'source.python.django'
+	tab_trigger: 'positiveinteger'
+}

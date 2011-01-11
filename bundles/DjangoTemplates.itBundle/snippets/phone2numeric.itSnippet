@@ -1,0 +1,6 @@
+﻿{
+	content: '|phone2numeric'
+	key_equivalent: 'Ctrl+|'
+	title: 'phone2numeric'
+	scope: 'text.html.django'
+}

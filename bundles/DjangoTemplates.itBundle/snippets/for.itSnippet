@@ -1,0 +1,8 @@
+﻿{
+	content: '{% for $1 in $2 %}
+	$3
+{% endfor %}'
+	title: 'for'
+	scope: 'text.html.django'
+	tab_trigger: 'for'
+}

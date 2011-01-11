@@ -1,0 +1,6 @@
+﻿{
+	content: '|slice:"${1:arg}"'
+	key_equivalent: 'Ctrl+|'
+	title: 'slice'
+	scope: 'text.html.django'
+}

@@ -1,0 +1,6 @@
+﻿{
+	content: '|floatformat'
+	key_equivalent: 'Ctrl+|'
+	title: 'floatformat'
+	scope: 'text.html.django'
+}

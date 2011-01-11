@@ -1,0 +1,8 @@
+﻿{
+	content: '{% filter $1 %}
+	$2
+{% endfilter %}'
+	title: 'filter'
+	scope: 'text.html.django'
+	tab_trigger: 'filter'
+}

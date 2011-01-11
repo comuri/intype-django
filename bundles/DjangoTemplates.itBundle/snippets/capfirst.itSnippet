@@ -1,0 +1,6 @@
+﻿{
+	content: '|capfirst'
+	key_equivalent: 'Ctrl+|'
+	title: 'capfirst'
+	scope: 'text.html.django'
+}

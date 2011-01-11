@@ -1,0 +1,8 @@
+﻿{
+	content: '{% comment %}
+	$1
+{% endcomment %}'
+	title: 'comment'
+	scope: 'text.html.django'
+	tab_trigger: 'comment'
+}

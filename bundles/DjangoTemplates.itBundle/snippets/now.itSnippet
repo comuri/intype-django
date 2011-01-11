@@ -1,0 +1,6 @@
+﻿{
+	content: '{% now "$1" %}'
+	title: 'now'
+	scope: 'text.html.django'
+	tab_trigger: 'now'
+}

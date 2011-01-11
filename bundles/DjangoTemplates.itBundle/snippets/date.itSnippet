@@ -1,0 +1,6 @@
+﻿{
+	content: '|date:"${1:arg}"'
+	key_equivalent: 'Ctrl+|'
+	title: 'date'
+	scope: 'text.html.django'
+}

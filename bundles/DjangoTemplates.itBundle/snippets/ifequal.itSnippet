@@ -1,0 +1,8 @@
+﻿{
+	content: '{% ifequal $1 $2 %}
+	$3
+{% endifequal %}'
+	title: 'ifequal'
+	scope: 'text.html.django'
+	tab_trigger: 'ifequal'
+}

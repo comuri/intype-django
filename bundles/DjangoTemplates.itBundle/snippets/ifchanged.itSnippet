@@ -1,0 +1,6 @@
+﻿{
+	content: '{% ifchanged $1%}$2{% endifchanged %}'
+	title: 'ifchanged'
+	scope: 'text.html.django'
+	tab_trigger: 'ifchanged'
+}

@@ -1,0 +1,8 @@
+﻿{
+	content: '{% spaceless %}
+	$1
+{% endspaceless %}'
+	title: 'spaceless'
+	scope: 'text.html.django'
+	tab_trigger: 'spaceless'
+}

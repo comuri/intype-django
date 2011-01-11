@@ -1,0 +1,6 @@
+﻿{
+	content: '|length_is:"${1:arg}"'
+	key_equivalent: 'Ctrl+|'
+	title: 'length_is'
+	scope: 'text.html.django'
+}

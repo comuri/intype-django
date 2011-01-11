@@ -1,0 +1,6 @@
+﻿{
+	content: '|divisibleby:"${1:arg}"'
+	key_equivalent: 'Ctrl+|'
+	title: 'divisibleby'
+	scope: 'text.html.django'
+}

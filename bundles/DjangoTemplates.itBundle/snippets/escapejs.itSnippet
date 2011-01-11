@@ -1,0 +1,6 @@
+﻿{
+	content: '|escapejs'
+	key_equivalent: 'Ctrl+|'
+	title: 'escapejs'
+	scope: 'text.html.django'
+}

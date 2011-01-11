@@ -1,0 +1,6 @@
+﻿{
+	content: '|rjust:"${1:arg}"'
+	key_equivalent: 'Ctrl+|'
+	title: 'rjust'
+	scope: 'text.html.django'
+}

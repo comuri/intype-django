@@ -1,0 +1,6 @@
+﻿{
+	content: '${1:FIELDNAME} = models.AutoField()'
+	title: 'AutoField'
+	scope: 'source.python.django'
+	tab_trigger: 'auto'
+}

@@ -1,0 +1,8 @@
+﻿{
+	content: '{% autoescape ${1:off} %}
+	$2
+{% endautoescape %}'
+	title: 'autoescape'
+	scope: 'text.html.django'
+	tab_trigger: 'autoescape'
+}

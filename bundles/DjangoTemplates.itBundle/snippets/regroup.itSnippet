@@ -1,0 +1,6 @@
+﻿{
+	content: '{% regroup $1 by $2 as $3 %}'
+	title: 'regroup'
+	scope: 'text.html.django'
+	tab_trigger: 'regroup'
+}

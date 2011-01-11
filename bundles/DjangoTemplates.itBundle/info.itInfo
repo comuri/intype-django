@@ -1,0 +1,106 @@
+{
+	menu: [
+		{
+			title: "Template Block"
+			menu: [
+				{ item: "bundle.DjangoTemplates.snippet.autoescape" }
+				{ item: "bundle.DjangoTemplates.snippet.block" }
+				{ item: "bundle.DjangoTemplates.snippet.blocktrans" }
+				{ item: "bundle.DjangoTemplates.snippet.block_tag" }
+				{ item: "bundle.DjangoTemplates.snippet.templatetag_closevariable" }
+				{ item: "bundle.DjangoTemplates.snippet.templatetag_closeblock" }
+				{ item: "bundle.DjangoTemplates.snippet.comment" }
+				{ item: "bundle.DjangoTemplates.snippet.comment_tag" }
+				{ item: "bundle.DjangoTemplates.snippet.extends" }
+				{ item: "bundle.DjangoTemplates.snippet.templatetag_openvariable" }
+				{ item: "bundle.DjangoTemplates.snippet.templatetag_openblock" }
+				{ item: "bundle.DjangoTemplates.snippet.super" }
+				{ item: "bundle.DjangoTemplates.snippet.variable_tag" }
+			]
+		}
+		{
+			title: "Template Filters"
+			menu: [
+				{ item: "bundle.DjangoTemplates.snippet.add" }
+				{ item: "bundle.DjangoTemplates.snippet.addslashes" }
+				{ item: "bundle.DjangoTemplates.snippet.capfirst" }
+				{ item: "bundle.DjangoTemplates.snippet.center" }
+				{ item: "bundle.DjangoTemplates.snippet.cut" }
+				{ item: "bundle.DjangoTemplates.snippet.date" }
+				{ item: "bundle.DjangoTemplates.snippet.default" }
+				{ item: "bundle.DjangoTemplates.snippet.default_if_none" }
+				{ item: "bundle.DjangoTemplates.snippet.dictsort" }
+				{ item: "bundle.DjangoTemplates.snippet.dictsortreversed" }
+				{ item: "bundle.DjangoTemplates.snippet.divisibleby" }
+				{ item: "bundle.DjangoTemplates.snippet.escape" }
+				{ item: "bundle.DjangoTemplates.snippet.escapejs" }
+				{ item: "bundle.DjangoTemplates.snippet.filesizeformat" }
+				{ item: "bundle.DjangoTemplates.snippet.first" }
+				{ item: "bundle.DjangoTemplates.snippet.fix_ampersands" }
+				{ item: "bundle.DjangoTemplates.snippet.floatformat" }
+				{ item: "bundle.DjangoTemplates.snippet.force_escape" }
+				{ item: "bundle.DjangoTemplates.snippet.get_digit" }
+				{ item: "bundle.DjangoTemplates.snippet.join" }
+				{ item: "bundle.DjangoTemplates.snippet.last" }
+				{ item: "bundle.DjangoTemplates.snippet.length" }
+				{ item: "bundle.DjangoTemplates.snippet.length_is" }
+				{ item: "bundle.DjangoTemplates.snippet.ljust" }
+				{ item: "bundle.DjangoTemplates.snippet.linebreaksbr" }
+				{ item: "bundle.DjangoTemplates.snippet.linebreaks" }
+				{ item: "bundle.DjangoTemplates.snippet.linenumbers" }
+				{ item: "bundle.DjangoTemplates.snippet.lower" }
+				{ item: "bundle.DjangoTemplates.snippet.make_list" }
+				{ item: "bundle.DjangoTemplates.snippet.phone2numeric" }
+				{ item: "bundle.DjangoTemplates.snippet.pluralize" }
+				{ item: "bundle.DjangoTemplates.snippet.pprint" }
+				{ item: "bundle.DjangoTemplates.snippet.random" }
+				{ item: "bundle.DjangoTemplates.snippet.removetags" }
+				{ item: "bundle.DjangoTemplates.snippet.rjust" }
+				{ item: "bundle.DjangoTemplates.snippet.safe" }
+				{ item: "bundle.DjangoTemplates.snippet.slugify" }
+				{ item: "bundle.DjangoTemplates.snippet.stringformat" }
+				{ item: "bundle.DjangoTemplates.snippet.striptags" }
+				{ item: "bundle.DjangoTemplates.snippet.time" }
+				{ item: "bundle.DjangoTemplates.snippet.timesince" }
+				{ item: "bundle.DjangoTemplates.snippet.timeuntil" }
+				{ item: "bundle.DjangoTemplates.snippet.title" }
+				{ item: "bundle.DjangoTemplates.snippet.truncatewords" }
+				{ item: "bundle.DjangoTemplates.snippet.truncatewords_html" }
+				{ item: "bundle.DjangoTemplates.snippet.slice" }
+				{ item: "bundle.DjangoTemplates.snippet.unordered_list" }
+				{ item: "bundle.DjangoTemplates.snippet.upper" }
+				{ item: "bundle.DjangoTemplates.snippet.urlencode" }
+				{ item: "bundle.DjangoTemplates.snippet.urlizetrunc" }
+				{ item: "bundle.DjangoTemplates.snippet.urlize" }
+				{ item: "bundle.DjangoTemplates.snippet.wordcount" }
+				{ item: "bundle.DjangoTemplates.snippet.wordwrap" }
+				{ item: "bundle.DjangoTemplates.snippet.yesno" }
+			]
+		}
+		{
+			title: "Template Tags"
+			menu: [
+				{ item: "bundle.DjangoTemplates.snippet.cycle" }
+				{ item: "bundle.DjangoTemplates.snippet.filter" }
+				{ item: "bundle.DjangoTemplates.snippet.debug" }
+				{ item: "bundle.DjangoTemplates.snippet.else" }
+				{ item: "bundle.DjangoTemplates.snippet.if" }
+				{ item: "bundle.DjangoTemplates.snippet.ifchanged" }
+				{ item: "bundle.DjangoTemplates.snippet.ifequal" }
+				{ item: "bundle.DjangoTemplates.snippet.ifnotequal" }
+				{ item: "bundle.DjangoTemplates.snippet.include" }
+				{ item: "bundle.DjangoTemplates.snippet.firstof" }
+				{ item: "bundle.DjangoTemplates.snippet.for" }
+				{ item: "bundle.DjangoTemplates.snippet.load" }
+				{ item: "bundle.DjangoTemplates.snippet.now" }
+				{ item: "bundle.DjangoTemplates.snippet.regroup" }
+				{ item: "bundle.DjangoTemplates.snippet.spaceless" }
+				{ item: "bundle.DjangoTemplates.snippet.ssi" }
+				{ item: "bundle.DjangoTemplates.snippet.trans" }
+				{ item: "bundle.DjangoTemplates.snippet.url" }
+				{ item: "bundle.DjangoTemplates.snippet.with" }
+				{ item: "bundle.DjangoTemplates.snippet.widthratio" }
+			]
+		}
+	]
+}

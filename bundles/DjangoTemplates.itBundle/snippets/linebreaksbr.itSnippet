@@ -1,0 +1,6 @@
+﻿{
+	content: '|linebreaksbr'
+	key_equivalent: 'Ctrl+|'
+	title: 'linebreaksbr'
+	scope: 'text.html.django'
+}

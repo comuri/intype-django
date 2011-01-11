@@ -1,0 +1,8 @@
+﻿{
+	content: '{% if $1 %}
+	$2
+{% endif %}'
+	title: 'if'
+	scope: 'text.html.django'
+	tab_trigger: 'if'
+}
